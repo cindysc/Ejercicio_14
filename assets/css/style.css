@@ -1,0 +1,68 @@
+body{
+    background-color: #e2e8ed;
+    padding: 8px 15px 8px 15px;
+}
+/* formulario */
+.formulario{
+    background-color: #ffffff;
+    border-radius: 5px;
+    height: 180px;
+    padding: 20px 0 10px 0;
+}
+.boton{
+    background-color: #21b28f;
+    background-image: none;
+    color: #fff;
+    padding: 6px 12px;
+    touch-action: manipulation;
+    cursor: pointer;
+    border-radius: 4px;
+    float: right;
+}
+
+.usuario{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid #21b28f;
+}
+
+/* card */
+.card{
+    background-color: #ffffff;
+    padding: 15px 20px 40px 30px;
+    position: relative;
+    border-radius: 2px;
+}
+span{
+    position: absolute;
+    float: right;
+}
+.padding-card{
+    padding-top: 20px;
+}
+.usuario_card{
+    width: 47px;
+    height: 47px;
+    border-radius: 50%;
+    border: 1px solid #21b28f;
+}
+.imagen{
+    width: 600px;
+    height: 400px;
+    overflow: hidden;
+}
+.img_card{
+    padding-left: 60px;
+}
+.like{
+    padding: 10px 0 0 60px;
+    display: inline-block;
+}
+p{
+    margin-bottom: 0;
+}
+.comentario{
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
